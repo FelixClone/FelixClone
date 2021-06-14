@@ -4,6 +4,8 @@
 :computer:
 ###### good see you here 
 
+![Snake animation](https://github.com/felixclone/felixclone/blob/output/github-contribution-grid-snake.svg)
+
 ## My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
