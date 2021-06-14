@@ -3,8 +3,6 @@
 #### so I'm just a programming student nothing more :)
 :computer:
 ###### good see you here 
-![Snake animation](https://github.com/FelixClone/FelixClone/blob/output/github-contribution-grid-snake.svg)
-
 
 ## My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
@@ -15,8 +13,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixClone&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/FelixClone/FelixClone/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/felixclone/felixclone/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **FelixClone/FelixClone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
