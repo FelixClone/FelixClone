@@ -4,12 +4,12 @@
 :computer:
 ###### good see you here 
 
-## My Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
 ![FelixClone's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixClone&show_icons=true&theme=tokyonight)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixClone&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
