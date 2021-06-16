@@ -7,7 +7,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
 ![FelixClone's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixClone&show_icons=true&theme=tokyonight)
 
