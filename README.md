@@ -1,16 +1,15 @@
 ### Hello World!!! <3
 
 #### so I'm just a programming student nothing more :)
-:computer:
+college: computer science :computer:
 ###### good see you here 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 ![Snake animation](https://github.com/FelixClone/FelixClone/blob/output/github-contribution-grid-snake.svg)
 
