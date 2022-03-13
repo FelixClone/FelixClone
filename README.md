@@ -10,10 +10,11 @@ college: computer science :computer:
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40" style="max-width:100%;"></img>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="py" width="40" height="40" style="max-width:100%;"></img>
 
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Snake animation](https://github.com/FelixClone/FelixClone/blob/output/github-contribution-grid-snake.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixClone&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FelixClone/FelixClone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
