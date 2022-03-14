@@ -16,11 +16,12 @@ college: computer science :computer:
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelixClone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixClone&layout=compact&langs_count=7&theme=tokyonight"/>
+    
+  ![Snake animation](https://github.com/FelixClone/FelixClone/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
 
 <!--
-![Snake animation](https://github.com/FelixClone/FelixClone/blob/output/github-contribution-grid-snake.svg)
-![snake animation](https://github.com/FelixClone/FelixClone/blob/output/github-contribution-grid-snake2.svg)
 **FelixClone/FelixClone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
