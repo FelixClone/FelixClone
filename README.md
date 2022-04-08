@@ -5,10 +5,12 @@ college: computer science :computer:
 ###### good see you here 
 
 ---
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="py" width="40" height="40" style="max-width:100%;"></img>
+<div align="center">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40" style="max-width:100%;"></img>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="py" width="40" height="40" style="max-width:100%;"></img>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40" style="max-width:100%;"></img>
+</div>
 
 ---
 
