@@ -3,8 +3,14 @@
   ![github-header-image](https://user-images.githubusercontent.com/85363903/170845160-90e39753-4fbe-4c7b-87fe-4c4e220b20fb.png)
   
 </div>
+<div align="center">
+  
+  <h3>
+    Hello World!!! <3
+  </h3>
+  
+</div>
 
-### Hello World!!! <3
 
 #### so I'm just a programming student nothing more :)
 
