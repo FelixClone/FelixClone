@@ -17,6 +17,13 @@
 college: computer science :computer:
 ###### good see you here 
 
+ <div align="right">
+   <h4>Social network:</h4>
+  <a href="https://www.linkedin.com/in/rodrigo-felix-221317213">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="C" width="35" />
+  </a>
+ </div>
+  
 <h3>Languages: </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="35">
