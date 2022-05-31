@@ -10,20 +10,23 @@
   </h3>
   
 </div>
+ <div align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-felix-221317213">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="25" />
+  </a>
+   
+  <a href="https://www.hackerrank.com/FelixClone">
+    <img src="https://user-images.githubusercontent.com/85363903/171300691-127eca99-a276-4a15-9729-c7f3918f5b54.png" alt="HackerRank" width="25" />
+  </a>
+ </div>
 
 
 #### so I'm just a programming student nothing more :)
 
 college: computer science :computer:
 ###### good see you here 
-
- <div align="right">
-   <h4>Social network:</h4>
-  <a href="https://www.linkedin.com/in/rodrigo-felix-221317213">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="C" width="35" />
-  </a>
- </div>
-  
+ <br>
+ 
 <h3>Languages: </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="35">
