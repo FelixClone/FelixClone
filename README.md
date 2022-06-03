@@ -12,11 +12,13 @@
 </div>
  <div align="center">
   <a href="https://www.linkedin.com/in/rodrigo-felix-221317213">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="99.8" />
   </a>
-   
   <a href="https://www.hackerrank.com/FelixClone">
-    <img src="https://user-images.githubusercontent.com/85363903/171300691-127eca99-a276-4a15-9729-c7f3918f5b54.png" alt="HackerRank" width="20" />
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" width="120" />
+  </a>
+   <a href="mailto:rodrigofx.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="78" />
   </a>
  </div>
 
