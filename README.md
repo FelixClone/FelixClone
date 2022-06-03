@@ -3,6 +3,7 @@
 ![github-header-image2](https://user-images.githubusercontent.com/85363903/170894512-3c9033e5-373d-4c13-a3d0-8c7a74bc0d08.png)
   
 </div>
+
 <div align="center">
   
   <h3>
@@ -10,15 +11,17 @@
   </h3>
   
 </div>
+  <br>
+  
  <div align="center">
   <a href="https://www.linkedin.com/in/rodrigo-felix-221317213">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="99.8" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="105.8" />
   </a>
   <a href="https://www.hackerrank.com/FelixClone">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" width="120" />
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" width="126" />
   </a>
    <a href="mailto:rodrigofx.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="78" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="84" />
   </a>
  </div>
 
@@ -42,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="35">
 </div>
-
+  
 ---
 
 <div align="center">
