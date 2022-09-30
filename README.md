@@ -20,7 +20,7 @@
   <a href="https://www.hackerrank.com/FelixClone">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" width="126" />
   </a>
-   <a href="mailto:rodrigofx.dev@gmail.com">
+   <a href="mailto:rodrigofx.dev+githubprofile@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="84" />
   </a>
  </div>
