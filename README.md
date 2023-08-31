@@ -14,9 +14,6 @@
   <br>
   
  <div align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-felix-221317213">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="105.8" />
-  </a>
   <a href="https://www.hackerrank.com/FelixClone">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" width="126" />
  </div>
