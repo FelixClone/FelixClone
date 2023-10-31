@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  <h3>
+  <h2>
     Hello World!!! <3
-  </h3>
+  </h2>
   
 </div>
   <br>
@@ -19,9 +19,9 @@
  </div>
 
 
-###### so I'm just a programming student nothing more :)
-###### good see you here 
-<h5> college: computer science :computer: <h5>
+so I'm just a programming student nothing more :)
+good see you here 
+college: computer science :computer:
 
  <br>
  
