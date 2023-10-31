@@ -1,6 +1,6 @@
 <div align="center">
 
-![github-header-image](https://github.com/FelixClone/FelixClone/assets/85363903/d9d58134-f86f-4a8d-9d52-28ffc93ad434)
+![github-header-image(1)](https://github.com/FelixClone/FelixClone/assets/85363903/59678e5b-4a1c-42de-8097-1c80623d5cf9)
   
 </div>
 
