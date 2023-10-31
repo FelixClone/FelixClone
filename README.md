@@ -12,6 +12,8 @@
   
 </div>
 
+<img src="https://github.com/FelixClone/FelixClone/assets/85363903/f322b01f-ca45-4227-9d29-f5f3549cc907" width="200px" align="right">
+
   <br>
   
  <div align="center">
