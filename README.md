@@ -11,6 +11,7 @@
   </h2>
   
 </div>
+
   <br>
   
  <div align="center">
@@ -19,11 +20,11 @@
  </div>
 
 
-so I'm just a programming student nothing more :)
-good see you here 
+so I'm just a programming student nothing more :) <br>
+good see you here <br>
 college: computer science :computer:
 
- <br>
+ <br><br><hr>
  
 <h4>Languages: </h4>
 <div align="center">
@@ -45,13 +46,13 @@ college: computer science :computer:
 </div>
   
 ---
-<!--
+
 <div align="center">
   <a href="https://github.com/FelixClone">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelixClone&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixClone&layout=compact&langs_count=7&theme=merko">
- -->   
+  
 
 <!--
 **FelixClone/FelixClone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
