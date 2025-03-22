@@ -27,8 +27,7 @@
 
 
  <!--![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)-->
-<!-- ![]()-->
-https://felixclone.itch.io/
+
 so I'm just a programming student nothing more :) <br>
 good see you here <br>
 college: computer science :computer:
