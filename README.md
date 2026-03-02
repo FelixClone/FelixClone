@@ -30,8 +30,8 @@
 
 so I'm just a programming student nothing more :) <br>
 good see you here <br>
-college: computer science :computer:
-
+college: computer science :computer: <br>
+<b>Game dev and Cibersecurity</b>
  <br><br><hr>
  
 <h4 align="center">GameEngine: </h4>
